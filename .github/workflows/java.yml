@@ -23,3 +23,5 @@ jobs:
 
       - name: Run Java
         run: java Main
+on:
+  workflow_dispatch:
